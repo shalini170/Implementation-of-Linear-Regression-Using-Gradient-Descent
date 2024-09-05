@@ -21,10 +21,10 @@ Perform iterations og gradient steps with learning rate.
 Plot the Cost function using Gradient Descent and generate the required graph
 ## Program:
 ```
-/*
+/
 Program to implement the linear regression using gradient descent.
-Developed by: SANJANA R
-RegisterNumber:  212223240148
+Developed by: SHALINI VENKATESULU
+RegisterNumber: 212223220104
 */
 
 
@@ -74,14 +74,22 @@ print(f"Predicted value: {pre}")
 
 
 
+    
+
+
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0b9d5cff-56e2-4820-8b35-cc1753389ba1)
 
-![image](https://github.com/user-attachments/assets/68888f04-b12f-4dcc-9d3d-79b29a3875f1)
 
-![image](https://github.com/user-attachments/assets/06fc24af-b581-454e-895f-34bbd5c1516e)
+![image](https://github.com/user-attachments/assets/0cebae2d-67fa-45fd-b93f-449be078a546)
+
+![image](https://github.com/user-attachments/assets/4387b9ec-110e-43c9-a79d-86dbce6fa18e)
+
+![image](https://github.com/user-attachments/assets/d3cc29ab-8fd9-4cb3-b864-b3c072d842a2)
+
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
